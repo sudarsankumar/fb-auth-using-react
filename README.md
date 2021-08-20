@@ -1,3 +1,16 @@
+This is a simple react app that has perfectly working facebook authorization
+
+## Installation
+
+To clone this project :
+
+```bash
+git clone "https://github.com/sudarsankumar/fb-auth-using-react.git"
+```
+
+## Demo link
+[Auth Page](https://fb-auth-using-react.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
